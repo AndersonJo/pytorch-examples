@@ -1,1 +1,7 @@
+# Data
+data
+raw
+processed
 
+# IPython
+.ipynb_checkpoints
