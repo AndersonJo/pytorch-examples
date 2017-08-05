@@ -6,6 +6,7 @@
 data
 raw
 processed
+hymenoptera_data
 
 # IPython
 .ipynb_checkpoints
